@@ -1,0 +1,6 @@
+C:\Users\Adair\source\repos\calculadora_biblioteca\calculadora_biblioteca\bin\Debug\calculadora_biblioteca.dll
+C:\Users\Adair\source\repos\calculadora_biblioteca\calculadora_biblioteca\bin\Debug\calculadora_biblioteca.pdb
+C:\Users\Adair\source\repos\calculadora_biblioteca\calculadora_biblioteca\obj\Debug\calculadora_biblioteca.csproj.AssemblyReference.cache
+C:\Users\Adair\source\repos\calculadora_biblioteca\calculadora_biblioteca\obj\Debug\calculadora_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Adair\source\repos\calculadora_biblioteca\calculadora_biblioteca\obj\Debug\calculadora_biblioteca.dll
+C:\Users\Adair\source\repos\calculadora_biblioteca\calculadora_biblioteca\obj\Debug\calculadora_biblioteca.pdb
